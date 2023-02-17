@@ -21,3 +21,5 @@ It is important to choose the extension from a thermally conductive, non-magneti
 
 
 https://www.amazon.de/-/en/dp/B00N4WI6IE?psc=1&ref=ppx_yo2ov_dt_b_product_details
+
+The 3D print template will be hosted on Thingiverse soon.
