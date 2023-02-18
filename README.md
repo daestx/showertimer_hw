@@ -25,7 +25,7 @@ https://www.amazon.de/-/en/dp/B00N4WI6IE?psc=1&ref=ppx_yo2ov_dt_b_product_detail
 The 3D print template will be hosted on Thingiverse soon.
 
 # Debug interface
-As debugger, I use a Segger J-Link and a Tag-Connect 6 pin connecter as you can see it here: https://www.tag-connect.com/product/tc2030-idc-nl. An adapter from J-Limk to TagConnect can be found here:
+As debugger, I use a Segger J-Link and a Tag-Connect 6 pin connecter as you can see it here: https://www.tag-connect.com/product/tc2030-idc-nl. In future, I'll support the version with "legs" as well. An adapter from J-Limk to TagConnect can be found here:
 
 https://github.com/daestx/jlink
 
