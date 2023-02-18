@@ -23,3 +23,9 @@ It is important to choose the extension from a thermally conductive, non-magneti
 https://www.amazon.de/-/en/dp/B00N4WI6IE?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 The 3D print template will be hosted on Thingiverse soon.
+
+# Debug interface
+As debugger, I use a Segger J-Link and a Tag-Connect 6 pin connecter as you can find here: https://www.tag-connect.com/product/tc2030-idc-nl. An adapter from J-Limk to TagConnect can be found here:
+
+https://github.com/daestx/jlink
+
